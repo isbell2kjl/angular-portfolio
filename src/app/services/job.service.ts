@@ -34,7 +34,7 @@ export class JobService {
 
     {
       id: 4,
-      title: "MT Generalist",
+      title: "Lab Generalist",
       description: "I performed clinical laboratory testing for a small hospital in Ecuador.",
       duration: "5 years",
       employer: "Reach Beyond"
