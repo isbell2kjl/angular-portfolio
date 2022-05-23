@@ -13,6 +13,8 @@
 .smallSteps {
     border: 5px solid lightskyblue;
     border-radius: 10px;
-    margin: 50px 150px;
-    /* margin: 50px 400px; */
+    padding: 5px;
+    left:0;
+    right:0;
+    margin: 3% 25%;
 }
