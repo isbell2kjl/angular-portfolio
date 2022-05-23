@@ -18,15 +18,15 @@ export class JobService {
 
     {
       id: 2,
-      title: "Pastor",
-      description: "I led a church in Ecuador, taught classes and coordinated outreach events.",
+      title: "Teacher and Pastor",
+      description: "I ran a church in Ecuador, taught classes, led counseling  and coordinated outreach events.",
       duration: "8 years",
       employer: "Horizon Ministries"
     },
 
     {
       id: 3,
-      title: "Database Admin",
+      title: "Database Administrator",
       description: "I created and maintained a cash flow database for a small hospital in Ecuador.",
       duration: "8 years",
       employer: "Reach Beyond"
@@ -34,8 +34,8 @@ export class JobService {
 
     {
       id: 4,
-      title: "Lab Generalist",
-      description: "I performed clinical laboratory testing for a small hospital in Ecuador.",
+      title: "Med Tech Generalist",
+      description: "I performed a variety of clinical laboratory tests for a jungle hospital in Ecuador.",
       duration: "5 years",
       employer: "Reach Beyond"
     },
@@ -43,7 +43,7 @@ export class JobService {
     {
       id: 5,
       title: "Medical Technologist",
-      description: "I performed clinical laboratory testing at a hospital in Seattle.",
+      description: "I performed routine clinical laboratory procedures using a variety of techniques.",
       duration: "3 years",
       employer: "West Seattle Community Hospital"
     },
