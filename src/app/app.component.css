@@ -1,0 +1,17 @@
+nav {
+    text-align: center;
+    background-color: darkcyan;
+    padding: 10px;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-size: large;
+}
+
+a:hover {
+    font-weight: bold ;
+}

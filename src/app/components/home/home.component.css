@@ -1,0 +1,18 @@
+.home {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.myImage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.smallSteps {
+    border: 5px solid lightskyblue;
+    border-radius: 10px;
+    margin: 50px 150px;
+    /* margin: 50px 400px; */
+}

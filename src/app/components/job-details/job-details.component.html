@@ -1,0 +1,9 @@
+<div *ngIf="job" class="job">
+    <h2>{{job.title}}, {{job.employer}} ({{job.duration}})</h2>
+    <p>{{job.description}}</p>
+    <a [routerLink]="['/jobs']">Back</a>
+</div>
+
+<div *ngIf="!job" >No job data</div>
+
+

@@ -1,0 +1,7 @@
+.aboutWrapper {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 5px solid lightskyblue;
+    border-radius: 10px;
+    margin: 50px 150px;
+    padding: 25px;
+}
