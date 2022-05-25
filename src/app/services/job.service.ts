@@ -52,7 +52,7 @@ export class JobService {
 
   constructor() { }
 
-  // asynchronous function to return list of contacts using observables
+  // asynchronous function to return list of jobs using observables.
   getJobs(): Observable<Job[]> {
     return of(this.listOfJobs);
   }
